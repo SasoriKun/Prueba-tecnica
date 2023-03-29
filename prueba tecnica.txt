@@ -1,0 +1,4 @@
+Iniciar un proyecto de NodeJS
+-Iniciar una terminal de comando
+-(-y) Poner todo por defecto, nombre, version, licencia
+-NPX ejecutador de paquetes de NPM sin instalarlos localmente
